@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "created_at": "2010-06-27T01:44:53.057Z",
+      "first_name": "Geovany",
+      "last_name": "Cruickshank",
+      "email": "Junior.Stoltenberg@yahoo.com",
+      "user_data": {
+        "city": "North Tyreeville",
+        "street": "50197 Hammes Station Apt. 156",
+        "country": "Belgium",
+        "state": "Alaska",
+        "zipCode": "31638-7058"
+      }
+    },
+    {
+      "id": 5,
+      "created_at": "2017-08-18T16:05:11.837Z",
+      "first_name": "Maximillian",
+      "last_name": "Feil",
+      "email": "Kennedi.Effertz@gmail.com",
+      "user_data": {
+        "city": "South Stantonmouth",
+        "street": "480 Loy Locks Apt. 137",
+        "country": "Ethiopia",
+        "state": "Wisconsin",
+        "zipCode": "46727"
+      }
+    },
+    {
+      "id": 6,
+      "created_at": "2007-08-12T02:57:23.273Z",
+      "first_name": "Arely",
+      "last_name": "Gibson",
+      "email": "Roslyn.Vandervort67@yahoo.com",
+      "user_data": {
+        "city": "Mikelside",
+        "street": "390 Mark Trafficway Suite 418",
+        "country": "Estonia",
+        "state": "Minnesota",
+        "zipCode": "31454-9224"
+      }
+    },
+    {
+      "id": 7,
+      "created_at": "2002-02-05T09:28:17.352Z",
+      "first_name": "Victor",
+      "last_name": "Hackett",
+      "email": "Lloyd.Kunze21@gmail.com",
+      "user_data": {
+        "city": "South Carter",
+        "street": "15742 Halvorson Squares Apt. 416",
+        "country": "Maldives",
+        "state": "Utah",
+        "zipCode": "47576"
+      }
+    },
+    {
+      "created_at": "2023-04-17T19:48:55.318Z",
+      "first_name": "Willian",
+      "last_name": "Souza",
+      "email": "wdawd@asdas.com",
+      "user_data": {
+        "city": "sdas",
+        "street": "asdasdasdadsa",
+        "country": "Brazil",
+        "state": "asdsdas",
+        "zipCode": "23121"
+      },
+      "id": 8
+    },
+    {
+      "created_at": "2023-04-17T21:44:02.906Z",
+      "first_name": "dasda sd",
+      "last_name": "asdas d",
+      "email": "askfaoikwshj@ioasjdias.com",
+      "user_data": {
+        "city": "2asdas",
+        "street": "sada sdas",
+        "country": "Albania",
+        "state": "asdas",
+        "zipCode": "sdasdas"
+      },
+      "id": 9
+    }
+  ],
+  "games": [
+    {
+      "name": "asdasdassdas",
+      "created_at": "2023-04-18T13:19:28.161Z",
+      "category": "Role-playing",
+      "game_config": {
+        "language": "English",
+        "sound": true
+      },
+      "id": 10
+    },
+    {
+      "created_at": "2023-04-17T02:05:13.774Z",
+      "name": "sadas",
+      "category": "Action-adventure",
+      "game_config": {
+        "language": "Spanish",
+        "sound": true
+      },
+      "id": 11
+    },
+    {
+      "created_at": "2023-04-17T02:07:03.185Z",
+      "name": "asda",
+      "category": "Action-adventure",
+      "game_config": {
+        "language": "Spanish",
+        "sound": false
+      },
+      "id": 13
+    },
+    {
+      "created_at": "2023-04-17T02:27:53.843Z",
+      "name": "teste",
+      "category": "Role-playing",
+      "game_config": {
+        "language": "English",
+        "sound": false
+      },
+      "id": 14
+    },
+    {
+      "created_at": "2023-04-17T17:16:33.002Z",
+      "name": "willian",
+      "category": "Action",
+      "game_config": {
+        "language": "Spanish",
+        "sound": true
+      },
+      "id": 15
+    }
+  ]
+}

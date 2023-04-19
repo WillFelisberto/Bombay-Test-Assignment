@@ -1,0 +1,17 @@
+.switchButton {
+  display: flex;
+  justify-content: flex-end;
+  height: 100%;
+  align-items: center;
+  padding-right: 20px;
+}
+
+
+.labelMenu {
+  font-weight: 500;
+}
+
+.divContent {
+  padding: 24px;
+  min-height: 360px;
+}

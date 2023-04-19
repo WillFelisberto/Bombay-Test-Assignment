@@ -1,0 +1,14 @@
+/* Estilos para dispositivos móveis com largura de tela menor que 768 pixels */
+@media (max-width: 768px) {
+  .responsive-range-picker .ant-picker-input {
+    width: 100%;
+    /* Definir largura de 100% para o input do picker */
+  }
+
+  .responsive-range-picker .ant-picker-range-separator {
+    display: block;
+    /* Exibir o separador em um bloco separado */
+    margin-top: 8px;
+    /* Adicionar margem superior para espaçamento */
+  }
+}
