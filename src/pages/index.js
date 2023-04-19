@@ -5,6 +5,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { getDashboard } from '@/store/dashboard/actions';
 import Spinner from '@/components/Spinner/Spinner';
 import ErrorComponent from '@/components/ErrorComponent/ErrorComponent';
+import Head from 'next/head';
 
 const { Title } = Typography;
 export default function Dashboard() {
@@ -32,6 +33,9 @@ export default function Dashboard() {
 
   return (
     <>
+      <Head>
+        <title>Dashboard</title>
+      </Head>
       <Title level={2}>Dashboard</Title>
       {dataDashboard.loading && !dataDashboard.loaded && !dataDashboard.error ? (
         <Spinner />
