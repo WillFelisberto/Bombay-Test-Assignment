@@ -10,6 +10,7 @@ import { getArrayById } from '@/utils';
 import GamesModal from '@/components/GamesModal/GamesModal';
 import ErrorComponent from '@/components/ErrorComponent/ErrorComponent';
 import Spinner from '@/components/Spinner/Spinner';
+import Head from 'next/head';
 
 const { Title } = Typography;
 
@@ -119,6 +120,9 @@ export default function Games() {
 
   return (
     <>
+      <Head>
+        <title>Games</title>
+      </Head>
       <Title level={2}>Games</Title>
       {games.loading && !games.loaded && !games.error ? (
         <Spinner />
